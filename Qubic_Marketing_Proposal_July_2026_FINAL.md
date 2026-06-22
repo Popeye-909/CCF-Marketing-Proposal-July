@@ -94,7 +94,7 @@ Over the April 1 – June 30 term, Qubic marketing moved into a phase of full ex
 
 **Total Monthly Team Salaries: $14,900**
 
-Detailed list of responsibilities for each role can be found [here](#).
+Detailed list of responsibilities for each role can be found [here](https://docs.google.com/document/d/1F8u1k9ydd_0L_5gBmK9fZ5OFcASdmIFgglTeTLf7JFw/edit?usp=sharing).
 
 ---
 
