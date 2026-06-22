@@ -1,13 +1,16 @@
 # 🌐 QUBIC MARKETING CCF FUNDING PROPOSAL
 
 **Term:** July 1, 2026 – July 31, 2026
+
 **Submitted by:** Interim Head of Marketing & Growth
+
 **Total Requested:** 22,400 USD Equivalent
 
 Send **52,093,023,256 QUBIC** to wallet
 
 Wallet Address:
-CHULBWKVWLNQVCCMDCOJIHKCMDSDQWLVTQBJUBDCJAZBNHXPRMQLGCDBXAOD
+
+`CHULBWKVWLNQVCCMDCOJIHKCMDSDQWLVTQBJUBDCJAZBNHXPRMQLGCDBXAOD`
 
 to support Qubic Marketing operations during the period **July 1, 2026 – July 31, 2026.**
 
@@ -25,13 +28,10 @@ The QUBIC amount was calculated using a valuation of **0.00000043 USD per QUBIC.
 
 # Roadmap
 
-June 22–23 : Public discussion of proposal
-
-June 24 : Refinement
-
-June 25 : Proposal goes up for vote to Computors
-
-July 1 : Vote closes at turn of epoch
+- **June 22–23** — Public discussion of proposal
+- **June 24** — Refinement
+- **June 25** — Proposal goes up for vote to Computors
+- **July 1** — Vote closes at turn of epoch
 
 **Proposal End Time:** July 31, 2026
 
@@ -40,7 +40,7 @@ July 1 : Vote closes at turn of epoch
 # Funding Request Summary
 
 | Item | Amount |
-|-----|------|
+|------|--------|
 | Total Requested | $22,400 |
 | Duration | July 1 – July 31 (1 month) |
 | Includes | Salaries, tools, paid media, content production, video and explainer production, AMA coordination, SEO and blog operations, newsletter distribution, website development, CRM/automation, 50% of business development + tool costs, and ecosystem coordination |
@@ -65,24 +65,24 @@ Over the April 1 – June 30 term, Qubic marketing moved into a phase of full ex
 
 ## Q2 Milestones
 
-• Strongest paid performance month on record in April
-• Crossed 100,000 followers on X
-• 25.76 million total impressions across paid and organic in April
-• Paid campaigns delivered 21.7 million impressions at a CPM of $0.14, the lowest recorded in over six months, despite ads being offline for nine days due to platform issues
-• 16,128,025 paid impressions on X in May at a CPM of $0.22
-• Organic: 7 million impressions on X and 22,813 on LinkedIn across April and May
-• Began testing placements on MiningPoolStats, reaching active DOGE miners
-• Updated the Incubation and Roadmap pages
-• Added a dedicated DOGE Mining page and updated the existing Mining page
-• Refreshed the Mining Academy to reflect the shift from XMR to DOGE mining
-• 52,000+ unique visitors on qubic.org
+- Strongest paid performance month on record in April
+- Crossed 100,000 followers on X
+- 25.76 million total impressions across paid and organic in April
+- Paid campaigns delivered 21.7 million impressions at a CPM of $0.14, the lowest recorded in over six months, despite ads being offline for nine days due to platform issues
+- 16,128,025 paid impressions on X in May at a CPM of $0.22
+- Organic: 7 million impressions on X and 22,813 on LinkedIn across April and May
+- Began testing placements on MiningPoolStats, reaching active DOGE miners
+- Updated the Incubation and Roadmap pages
+- Added a dedicated DOGE Mining page and updated the existing Mining page
+- Refreshed the Mining Academy to reflect the shift from XMR to DOGE mining
+- 52,000+ unique visitors on qubic.org
 
 ---
 
 # Team Structure
 
 | Role | Monthly Cost | Responsibilities |
-|----|----|----|
+|------|--------------|------------------|
 | Interim Head of Marketing & Growth | $5,500 | Strategic direction and budget management, project management and timelines, paid media, AMA coordination, marketing operations, and monthly performance reporting |
 | Business Development Lead | $2,700 | Exchange partnerships, payment gateways, and collaboration with the wider crypto communities in the best interest of Qubic |
 | Content Manager | $2,000 | Blog production (1–2 posts/week), weekly Qsletter and Scientific Newsletter, ecosystem spotlights |
@@ -101,30 +101,37 @@ Detailed list of responsibilities for each role can be found [here](#).
 # Objectives for This Term (July 2026)
 
 **Content & SEO**
-• Plan, research, and produce one to two detailed blog posts per week
-• Publish the weekly Qsletter and the Scientific Newsletter (every other week)
-• Continue expanding the education content library
-• Coordinate with all teams and draft posts for important releases, with supporting design assets
+
+- Plan, research, and produce one to two detailed blog posts per week
+- Publish the weekly Qsletter and the Scientific Newsletter (every other week)
+- Continue expanding the education content library
+- Coordinate with all teams and draft posts for important releases, with supporting design assets
 
 **Ecosystem & Spotlights**
-• Update the ecosystem page (community section)
-• Restart ecosystem spotlights: showcasing worthy community projects on socials
+
+- Update the ecosystem page (community section)
+- Restart ecosystem spotlights: showcasing worthy community projects on socials
 
 **Video & Education — Third Pillar Launch**
-• Create 3–5 explainer videos and education material on Qubic supporting the launch of the third pillar (Outsourced Computation)
+
+- Create 3–5 explainer videos and education material on Qubic supporting the launch of the third pillar (Outsourced Computation)
 
 **New Pages & Site**
-• Introduce a dedicated Qubic Science page
+
+- Introduce a dedicated Qubic Science page
 
 **Social & Community**
-• Maintain the social content calendar
-• Continue moderating the Qubic Discord and flagging content-worthy updates
+
+- Maintain the social content calendar
+- Continue moderating the Qubic Discord and flagging content-worthy updates
 
 **AMAs & Visibility**
-• Plan, outreach, coordinate, and host biweekly All Hands and Proposal AMAs
+
+- Plan, outreach, coordinate, and host biweekly All Hands and Proposal AMAs
 
 **Business Development**
-• Oversee exchange partnerships, payment gateways, and collaboration with the wider crypto communities in the best interest of Qubic
+
+- Oversee exchange partnerships, payment gateways, and collaboration with the wider crypto communities in the best interest of Qubic
 
 ---
 
@@ -146,17 +153,12 @@ The same level of transparency and reporting will continue for the July term.
 
 # Budget Request
 
-Team (1 Month)
-$14,900 × 1 = **$14,900**
-
-Tools (1 Month)
-$3,000 × 1 = **$3,000**
-
-Paid Media (1 Month)
-$3,500 × 1 = **$3,500**
-
-Miscellaneous Expenses (1 Month)
-$1,000 × 1 = **$1,000**
+| Item | Calculation | Amount |
+|------|-------------|--------|
+| Team (1 Month) | $14,900 × 1 | $14,900 |
+| Tools (1 Month) | $3,000 × 1 | $3,000 |
+| Paid Media (1 Month) | $3,500 × 1 | $3,500 |
+| Miscellaneous Expenses (1 Month) | $1,000 × 1 | $1,000 |
 
 **TOTAL REQUESTED: $22,400**
 
@@ -172,7 +174,8 @@ Please note that if there are excess funds at the end of the term, they will be 
 
 ---
 
-🗳️ Available Options
-Option 0: ❌ No, I don't want
+# 🗳️ Available Options
 
-Option 1: ✅ Yes, approve the budget of 52,093,023,256 QUBIC
+**Option 0:** ❌ No, I don't want
+
+**Option 1:** ✅ Yes, approve the budget of **52,093,023,256 QUBIC**
