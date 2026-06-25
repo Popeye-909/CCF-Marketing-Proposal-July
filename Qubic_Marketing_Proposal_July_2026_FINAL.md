@@ -6,7 +6,7 @@
 
 **Total Requested:** 22,400 USD Equivalent
 
-Send **52,093,023,256 QUBIC** to wallet
+Send **54,634,146,341 QUBIC** to wallet
 
 Wallet Address:
 
@@ -14,7 +14,7 @@ Wallet Address:
 
 to support Qubic Marketing operations during the period **July 1, 2026 – July 31, 2026.**
 
-The QUBIC amount was calculated using a valuation of **0.00000043 USD per QUBIC.**
+The QUBIC amount was calculated using a valuation of **0.00000041 USD per QUBIC.**
 
 ---
 
@@ -22,7 +22,7 @@ The QUBIC amount was calculated using a valuation of **0.00000043 USD per QUBIC.
 
 **Option 0:** ❌ No, I don't want
 
-**Option 1:** ✅ Yes, approve the budget of **52,093,023,256 QUBIC**
+**Option 1:** ✅ Yes, approve the budget of **54,634,146,341 QUBIC**
 
 ---
 
@@ -178,4 +178,4 @@ Please note that if there are excess funds at the end of the term, they will be 
 
 **Option 0:** ❌ No, I don't want
 
-**Option 1:** ✅ Yes, approve the budget of **52,093,023,256 QUBIC**
+**Option 1:** ✅ Yes, approve the budget of **54,634,146,341 QUBIC**
