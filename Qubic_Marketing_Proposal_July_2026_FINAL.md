@@ -85,7 +85,7 @@ Over the April 1 – June 30 term, Qubic marketing moved into a phase of full ex
 | Business Development Lead | $2,000 | Exchange partnerships, payment gateways, and collaboration with the wider crypto communities in the best interest of Qubic |
 | Content Manager | $1,500 | Blog production (1–2 posts/week), weekly Qsletter and Scientific Newsletter, ecosystem spotlights |
 | Video Creator / Editor | $750 | Animated explainers for the Outsourced Computation campaign and general video content (contract-based) |
-| AMA Host / Coordinator | $1,000 | Plan, outreach, coordinate, and host biweekly All Hands and Proposal AMAs; run paid media on X; mentor the current marketing team and support the transition to the incoming team taking over marketing after July |
+| AMA Host / Coordinator | $1,000 | Plan, outreach, coordinate, and host biweekly All Hands AMAs; run paid media on X; mentor and support the transition to the incoming team taking over marketing after July |
 | Designer | $1,000 | Design assets for social media posts and blog content |
 | Social Media Manager | $1,000 | Manages the social content calendar |
 | Web Developer | $250 | Web development on a project basis (project-based) |
