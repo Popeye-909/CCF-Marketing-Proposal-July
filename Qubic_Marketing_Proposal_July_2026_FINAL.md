@@ -158,7 +158,7 @@ The same level of transparency and reporting will continue for the July term.
 
 # Closing Statement
 
-This proposal extends the marketing systems now in place on a leaner, more price-conscious budget, while supporting major ecosystem initiatives, including live DOGE mining and the launch of Qubic's third pillar, **Outsourced Computation.**
+This proposal extends the marketing systems now in place on a leaner, more price-conscious budget, while supporting major ecosystem initiatives, including the launch of Qubic's third pillar, **Outsourced Computation.**
 
 Approval allows Qubic to maintain momentum and continue expanding its presence across the broader AI and decentralized compute ecosystem, while reflecting clear budget discipline in the current market.
 
