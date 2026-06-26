@@ -30,7 +30,7 @@ The QUBIC amount was calculated using a valuation of **0.00000038 USD per QUBIC.
 
 - **June 22–23**: Public discussion of proposal
 - **June 24**: Refinement
-- **June 25**: Proposal goes up for vote to Computors
+- **June 26**: Proposal goes up for vote to Computors
 - **July 1**: Vote closes at turn of epoch
 
 **Proposal End Time:** July 31, 2026
@@ -81,7 +81,7 @@ Over the April 1 – June 30 term, Qubic marketing moved into a phase of full ex
 
 | Role | Monthly Cost | Responsibilities |
 |------|--------------|------------------|
-| Interim Head of Marketing & Growth | $3,000 | Strategic direction and budget management, project management and timelines, paid media, AMA coordination, marketing operations, and monthly performance reporting |
+| Interim Head of Marketing & Growth | $3,000 | Strategic direction and budget management, project management and timelines, AMA coordination, marketing operations, and monthly performance reporting |
 | Business Development Lead | $2,000 | Exchange partnerships, payment gateways, and collaboration with the wider crypto communities in the best interest of Qubic |
 | Content Manager | $1,500 | Blog production (1–2 posts/week), weekly Qsletter and Scientific Newsletter, ecosystem spotlights |
 | Video Creator / Editor | $750 | Animated explainers for the Outsourced Computation campaign and general video content (contract-based) |
@@ -91,8 +91,6 @@ Over the April 1 – June 30 term, Qubic marketing moved into a phase of full ex
 | Web Developer | $250 | Web development on a project basis (project-based) |
 
 **Total Monthly Team Salaries: $10,500**
-
-Detailed list of responsibilities for each role can be found [here](#).
 
 ---
 
@@ -139,7 +137,7 @@ Progress updates and marketing analytics will continue to be shared with the com
 
 A detailed breakdown of the previous marketing budget can be viewed here:
 
-**[QUBIC MARKETING BUDGET](https://docs.google.com/spreadsheets/d/19dg6BSNd_XDoR_dvgQGMpzwnglvV6UyWcDNit6B1uFg/edit?usp=sharing)**
+**[QUBIC MARKETING BUDGET](https://docs.google.com/spreadsheets/d/1T1kVQjb52bdIiFFpprNA7y9fie0LjaB_E9HgDuWp350/edit?gid=2071532179#gid=2071532179)**
 
 The same level of transparency and reporting will continue for the July term.
 
