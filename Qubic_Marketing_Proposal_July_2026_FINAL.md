@@ -138,7 +138,7 @@ Progress updates and marketing analytics will continue to be shared with the com
 
 A detailed breakdown of the previous marketing budget can be viewed here:
 
-**[QUBIC MARKETING BUDGET](https://docs.google.com/spreadsheets/d/1T1kVQjb52bdIiFFpprNA7y9fie0LjaB_E9HgDuWp350/edit?gid=2071532179#gid=2071532179)**
+**[QUBIC MARKETING BUDGET](#)**
 
 The same level of transparency and reporting will continue for the July term.
 
