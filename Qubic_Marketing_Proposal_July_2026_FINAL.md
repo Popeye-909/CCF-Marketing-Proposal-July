@@ -74,6 +74,7 @@ Over the April 1 – June 30 term, Qubic marketing moved into a phase of full ex
 - Added a dedicated DOGE Mining page and updated the existing Mining page
 - Refreshed the Mining Academy to reflect the shift from XMR to DOGE mining
 - 52,000+ unique visitors on qubic.org
+- Produced 8 high-quality videos spanning across multiple genres as explainers, scientific tutorials, and cinematic videos. Multiple video assets such as intros and outros were also created to be used for future use.
 
 ---
 
